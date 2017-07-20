@@ -3,13 +3,8 @@
 Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney,
 published by O'Reilly Media
 
-# 2nd Edition Readers
-
-If you are reading the [2nd Edition][1], please find the reorganized book
-materials on the [`2nd-edition` branch][2].
-
 ## IPython Notebooks:
-
+There are a lot of errors due to Pandas package development. A lot of functions are deprecated. After a week of reading the 
 * [Chapter 2: Introductory Examples](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/master/ch02.ipynb)
 * [Chapter 4: NumPy Basics](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/master/ch04.ipynb)
 * [Chapter 5: Getting Started with Pandas](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/master/ch05.ipynb)
